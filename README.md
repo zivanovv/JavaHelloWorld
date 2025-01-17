@@ -2,7 +2,7 @@
 
 Hello World sa Javom
 
-Ovo je jednostavan "Hello World" uradjen u Java programskom jeziku
+Ovo je jednostavan "Hello World" uradjen sa Java programskim jezikom
 
 Napisan je 36 puta na izlazu
 
